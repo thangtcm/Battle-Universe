@@ -33,8 +33,8 @@
 
 ## Demo
 
- ![1](Demo/Menu.png)  |  ![2](Demo/help.png)
-:---------------: | :---------------:
- ![3](Demo/option.png)  |  ![4](Demo/BulletOption.png)
-![33](Demo/Shop.png) | ![44](Demo/item_not_owned.png)
- ![5](Demo/PlayGame.png) ![6](Demo/EndGame.png)
+ ![1](Demo/Menu.png)        |       ![2](Demo/help.png)
+:-------------------------: | :-------------------------:
+ ![3](Demo/option.png)      |       ![4](Demo/BulletOption.png)
+![33](Demo/Shop.png)        |       ![44](Demo/item_not_owned.png)
+ ![5](Demo/PlayGame.png)    |       ![6](Demo/EndGame.png)
