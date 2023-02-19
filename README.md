@@ -31,7 +31,9 @@
 * Mua loại đạn.
 * Chọn đạn, chọn tàu vũ trụ tùy thích mà người chơi đã sỡ hữu.
 
-## Demo
+### Demo
+
+***
 
  ![1](Demo/Menu.png)        |       ![2](Demo/help.png)
 :-------------------------: | :-------------------------:
