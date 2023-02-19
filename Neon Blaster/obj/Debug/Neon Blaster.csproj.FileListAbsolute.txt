@@ -1,0 +1,19 @@
+D:\Game_Group2\Neon Blaster\Neon Blaster\bin\Debug\Neon Blaster.exe.config
+D:\Game_Group2\Neon Blaster\Neon Blaster\bin\Debug\Neon Blaster.exe
+D:\Game_Group2\Neon Blaster\Neon Blaster\bin\Debug\Neon Blaster.pdb
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon Blaster.csproj.AssemblyReference.cache
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon Blaster.csproj.SuggestedBindingRedirects.cache
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon_Blaster.Form1.resources
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon_Blaster.Properties.Resources.resources
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon Blaster.csproj.GenerateResource.cache
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon Blaster.csproj.CoreCompileInputs.cache
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon Blaster.exe
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon Blaster.pdb
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon_Blaster.Menu.resources
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon_Blaster.Option.resources
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon_Blaster.OptionBullets.resources
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon_Blaster.Store.resources
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon_Blaster.Help.resources
+D:\Game_Group2\Neon Blaster\Neon Blaster\bin\Debug\ReadWriteIni.dll
+D:\Game_Group2\Neon Blaster\Neon Blaster\bin\Debug\ReadWriteIni.pdb
+D:\Game_Group2\Neon Blaster\Neon Blaster\obj\Debug\Neon Blaster.csproj.CopyComplete
