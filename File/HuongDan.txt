@@ -1,0 +1,7 @@
+Battle Universe là file main.
+
+Add file bin.zip và obj - properties.zip vào Neon Blaster\Neon Blaster
+
+Sau đó Bổ sung file image-bosung vào Neon Blaster\Neon Blaster/bin/Debug/Image
+
+File ReadWrite.zip là project DLL
